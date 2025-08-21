@@ -25,7 +25,3 @@ A collection of **4 small JavaScript projects** to practice and demonstrate fron
 - Clean and responsive UI
 - Easy to extend and customize
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/js-mini-projects.git
