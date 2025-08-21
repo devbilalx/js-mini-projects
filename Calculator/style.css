@@ -1,0 +1,56 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background: #D6EAF8;
+    width: 100%;
+    min-height: 100vh;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.mainCal{
+    background: #3a4452;
+    padding: 20px;
+    border-radius: 10px ;
+}
+
+.mainCal form input{
+    border: none;
+    outline: none ;
+    background: #3a4452;
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer; 
+    background: transparent;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1) , 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.display{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 20px 0px ;
+
+}
+form .display input{
+    flex: 1;
+    text-align: right;
+    box-shadow: none;
+    font-size: 45px;
+}
+
+form div .equal{
+    width: 140px;
+ 
+}
